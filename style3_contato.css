@@ -1,0 +1,138 @@
+header {
+    background: #1867a9;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: #dedee9;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.botao:hover {
+    background-color: #00bdff;
+    color: white;
+}
+
+.botao {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+#links {
+    word-spacing: 30px;
+}
+
+#quem-somos {
+    word-spacing: normal;
+}
+
+.container {
+    text-align: center;
+}
+
+#texto {
+    background-color: white;
+    margin-left: 275px;
+    margin-right: 275px;
+}
+
+.conteudo {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    color: #1867a9;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+#texto2 {
+    background-color: white;
+    margin-left: 275px;
+    margin-right: 275px;
+}
+
+#input {
+    margin-left: 50px;
+    color: #1867a9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.caixa_texto {
+    width: 300px;
+    border: #1867a9 solid 1px;
+}
+
+#caixa_texto_assunto {
+    width: 500px;
+    height: 170px;
+    margin-left: 50px;
+    border: #1867a9 solid 1px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color: #1867a9;
+    color: white;
+    border: #1867a9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#centralizar_butao {
+    text-align: center;
+}
+
+#butao:hover {
+    background-color: gray;
+    color: white;
+    border: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.mapBox {
+    position: relative;
+    width: 600px;
+    height: 500px;
+    background: white;
+    padding: 100px;
+    background-color: #dedee9;
+}
+
+#mudarcor_mapbox {
+    background-color: #dedee9;
+}
+
+.mapBox iframe {
+    width: 100%;
+    height: 100%;
+    background-color: #dedee9;
+}
+
+footer {
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo-poli {
+    text-align: center;
+}
+
+.hr {
+    padding-left: 15px;
+    padding-right: 15px;
+}

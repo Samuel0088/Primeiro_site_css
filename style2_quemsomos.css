@@ -1,0 +1,117 @@
+header {
+    background: #1867a9;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: #dedee9;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.botao:hover {
+    background-color: #00bdff;
+    color: white;
+}
+
+.botao {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+#links {
+    word-spacing: 30px;
+}
+
+#quem-somos {
+    word-spacing: normal;
+}
+
+.container {
+    text-align: center;
+}
+
+#texto {
+    background-color: white;
+    margin-left: 275px;
+    margin-right: 275px;
+}
+
+.conteudo {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.titulo {
+    text-align: center;
+    color: #1867a9;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+#img_quemsomos {
+    text-align: center;
+}
+
+.paragrafo {
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.titulo_tabela {
+    color: #1867a9;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.tabela {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 500px;
+    height: 150px;
+    text-align: center;
+}
+
+.titulo_tab {
+    background-color: #1867a9;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.informacoes_tabela {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo-poli {
+    text-align: center;
+}
+
+.hr {
+    padding-left: 15px;
+    padding-right: 15px;
+}
